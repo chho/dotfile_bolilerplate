@@ -15,3 +15,6 @@ NPM config file.
 
 ## [postcss.config.js](https://github.com/chho/dotfile_bolilerplate/blob/main/postcss.config.js)
 Postcss config file with Tailwind configuration.
+
+## [Readme](https://github.com/RichardLitt/standard-readme/blob/master/README.md)
+The standard README file.
