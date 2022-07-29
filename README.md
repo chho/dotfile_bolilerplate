@@ -7,6 +7,9 @@ Editorconfig file. For VSCode, you need to install the editorconfig extension.
 ## [index.html](https://github.com/chho/dotfile_bolilerplate/blob/main/index.html)
 HTML boilerplate file.
 
+## [main.css](https://github.com/chho/dotfile_bolilerplate/blob/main/main.css)
+Tailwind CSS file.
+
 ## [package.json](https://github.com/chho/dotfile_bolilerplate/blob/main/package.json)
 NPM config file.
 

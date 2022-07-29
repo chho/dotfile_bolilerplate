@@ -1,0 +1,12 @@
+/* customized css file at first. */
+@import "./animation.css";
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/*
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*/
