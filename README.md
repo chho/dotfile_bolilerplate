@@ -1,14 +1,14 @@
 # dotfile_bolilerplate
 A collection of some configuration boilerplate. Each entry in the config file has comment as far as possible.
 
-## .editorconfig
+## [.editorconfig](https://github.com/chho/dotfile_bolilerplate/blob/main/.editorconfig)
 Editorconfig file. For VSCode, you need to install the editorconfig extension.
 
-## index.html
+## [index.html](https://github.com/chho/dotfile_bolilerplate/blob/main/index.html)
 HTML boilerplate file.
 
-## package.json
+## [package.json](https://github.com/chho/dotfile_bolilerplate/blob/main/package.json)
 NPM config file.
 
-## postcss.config.js
+## [postcss.config.js](https://github.com/chho/dotfile_bolilerplate/blob/main/postcss.config.js)
 Postcss config file with Tailwind configuration.
