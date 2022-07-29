@@ -1,0 +1,68 @@
+{
+    // display rulers in the editor.
+    "editor.rulers": [
+        100,
+        120
+    ],
+
+    // disable vscode validation if you've installed stylelint extension.
+    "css.validate": false,
+    "less.validate": false,
+    "scss.validate": false,
+
+    // use the installed typescript of the project for intellisense.
+    "typescript.tsdk": "./node_modules/typescript/lib",
+
+    // exclude of searching.
+    "search.exclude": {
+        "**/node_modules": true,
+        "dist": true,
+        "yarn.lock": true
+    },
+
+    // exclude the file for watching to save time.
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/*/**": true,
+        "**/dist/**": true
+    },
+
+    // use prettier formatter
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[yaml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

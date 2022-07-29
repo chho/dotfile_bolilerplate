@@ -4,6 +4,11 @@ A collection of some configuration boilerplate. Each entry in the config file ha
 ## [.editorconfig](https://github.com/chho/dotfile_bolilerplate/blob/main/.editorconfig)
 Editorconfig file. For VSCode, you need to install the editorconfig extension.
 
+## [.vscode/extensions.json](https://github.com/chho/dotfile_bolilerplate/blob/main/.vscode/extensions.json)
+VSCode extensions recommendations for project.
+## [.vscode/settings.json](https://github.com/chho/dotfile_bolilerplate/blob/main/.vscode/settings.json)
+VSCode settings for project.
+
 ## [index.html](https://github.com/chho/dotfile_bolilerplate/blob/main/index.html)
 HTML boilerplate file.
 
