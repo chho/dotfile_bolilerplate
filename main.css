@@ -1,12 +1,18 @@
-/* customized css file at first. */
-@import "./animation.css";
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
 
-@import "tailwindcss/base";
-@import "tailwindcss/components";
-@import "tailwindcss/utilities";
+/* the customized style files are imported at the end for higher CSS priority */
+@import './animation.css';
 
 /*
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 */
+
+@font-face {
+    font-family: 'source-hansans';
+    font-display: swap;
+    src: url(./SourceHanSans-VF.otf.woff2) format('woff2');
+}
