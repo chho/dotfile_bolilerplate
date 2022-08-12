@@ -6,5 +6,6 @@ module.exports = {
         // tailwind nesting plugin for @apply keyword
         'tailwindcss/nesting': {},
         tailwindcss: {},
+        autoprefixer: {},
     }
 }
