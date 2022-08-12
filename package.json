@@ -8,7 +8,7 @@
     },
     "author": {
         "name": "Hao",
-        "email": "chang.hao@outlook.com",
+        "email": "objdev@outlook.com",
         "url": "https://objdev.net"
     },
     "repository": {
@@ -19,6 +19,7 @@
     "devDependencies": {
         "@commitlint/cli": "^17.0.3",
         "@commitlint/config-conventional": "^17.0.3",
+        "autoprefixer": "^10.4.8",
         "husky": "^8.0.0",
         "postcss-cli": "^10.0.0",
         "postcss-import": "^14.1.0",
