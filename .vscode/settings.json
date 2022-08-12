@@ -10,6 +10,9 @@
     "less.validate": false,
     "scss.validate": false,
 
+    // ignore unknownAtRules for tailwindcss @apply
+    "css.lint.unknownAtRules": "ignore",
+
     // use the installed typescript of the project for intellisense.
     "typescript.tsdk": "./node_modules/typescript/lib",
 
