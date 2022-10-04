@@ -9,6 +9,9 @@ VSCode extensions recommendations for project.
 ## [.vscode/settings.json](https://github.com/chho/dotfile_bolilerplate/blob/main/.vscode/settings.json)
 VSCode settings for project.
 
+## [Cargo.toml](https://github.com/chho/dotfile_bolilerplate/blob/main/Cargo.toml)
+Cargo boilerplate file.
+
 ## [index.html](https://github.com/chho/dotfile_bolilerplate/blob/main/index.html)
 HTML boilerplate file.
 
