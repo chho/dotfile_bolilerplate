@@ -36,10 +36,11 @@ This repo is a **living reference** of tool configurations I use across projects
 |------|-------------|
 | [`.vscode/settings.json`](.vscode/settings.json) | VSCode workspace settings — Biome as default formatter, format on save, 100-char ruler, TailwindCSS quick suggestions, Rust & Python overrides. |
 
-### Reference
+### AI Agent
 
 | File | Description |
 |------|-------------|
+| [`AGENTS.md`](AGENTS.md) | Instructions for AI coding agents — repo overview, commit conventions, formatting rules. |
 | [`agent_requirements.md`](agent_requirements.md) | Coding conventions and project structure guidelines for Rust projects. |
 
 ## Quick Start
@@ -61,14 +62,14 @@ cp -r dotfile_bolilerplate/.vscode ./your-project/
 Run Prettier across the repo:
 
 ```bash
-npx prettier --write .
+bunx prettier --write .
 ```
 
 Or let Biome handle it:
 
 ```bash
-npx @biomejs/biome format --write .
-npx @biomejs/biome check --write .
+bunx @biomejs/biome format --write .
+bunx @biomejs/biome check --write .
 ```
 
 ## License
